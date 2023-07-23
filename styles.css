@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #d4e8e5; /* Hintergrundfarbe, die zum Thema passt */
+}
+
+header {
+    background-color: #79b8b3; /* Farbe für den Kopfbereich */
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #79b8b3; /* Farbe für den Fußbereich */
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
